@@ -1,2 +1,2 @@
-# bega
+# Hello world
 Bega
